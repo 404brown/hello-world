@@ -17,7 +17,7 @@
 
 `code`
 
----horizontal rule
+---
 
 [use this link](https://www.example.com)
 *appears as a link*
